@@ -19,5 +19,5 @@ The trained model shows
 * **Precision** - 96.92% and 75%
 * **Recall** - 88.7% and 92.3%
 * **F1_measure** - 92.6% and 82.7%
-* **Accuracy** -89.6%
+* **Accuracy** -89.6%<br>
 __*accuracy functions are built by me you can also compare using R inbuilt library functions*__
